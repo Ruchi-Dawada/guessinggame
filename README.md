@@ -9,4 +9,4 @@
 *
 *Number of lines in guessing_game.sh:**
      
- 27
+ 25
